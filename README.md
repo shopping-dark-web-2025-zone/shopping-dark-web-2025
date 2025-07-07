@@ -115,4 +115,6 @@ Plase contribute and add stars to this repo.
 
 
 
-Update:  04.07.2025 04:23 url is now responsive and operational
+
+
+Update: URL cleanup
