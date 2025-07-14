@@ -117,4 +117,6 @@ Plase contribute and add stars to this repo.
 
 
 
-Update: URL cleanup
+
+
+Update: CDN URLs
