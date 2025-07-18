@@ -119,4 +119,6 @@ Plase contribute and add stars to this repo.
 
 
 
-Update: CDN URLs
+
+
+Update:  18.07.2025 14:46
