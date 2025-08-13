@@ -127,4 +127,6 @@ Plase contribute and add stars to this repo.
 
 
 
-Update:  Monday 04 August 2025
+
+
+Update:  08/13/2025 onion URLs repaired
