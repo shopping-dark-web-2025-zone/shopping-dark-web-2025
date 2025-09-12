@@ -27,8 +27,8 @@ These sites are not available on the clearnet - [Download the Tor Browser!](http
 *   [Elysium - Market](http://6ekltb4rr7br2gjqixjwiymwvg7mmhf7et7622vto2f6oijd66encwqd.onion) - `http://6ekltb4rr7br2gjqixjwiymwvg7mmhf7et7622vto2f6oijd66encwqd.onion`
 *   [Flugsvamp - 4.0 (Sweden)](http://ikhpggtz3iv6gfebiqagmb4zto2e6xepocqjii3yvkrp27jwzlds2lqd.onion) - `http://ikhpggtz3iv6gfebiqagmb4zto2e6xepocqjii3yvkrp27jwzlds2lqd.onion`
 *   [MGM Grand - Market](http://pu2rsoo3kw6palhiod6zkilf46oms5xw2jfsirubgz2x7owmboylbsyd.onion) - `http://pu2rsoo3kw6palhiod6zkilf46oms5xw2jfsirubgz2x7owmboylbsyd.onion`
-*   [Nexus - Market](http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion) - `http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion`
-*   [Torzon Market](http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion) - `http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion`
+*   [Nexus - Market](http://nexuszpgb6wzczes3jvsqeoyiuvjttjscf7nbtvkiaeqzboj3fucjcad.onion) - `http://nexuszpgb6wzczes3jvsqeoyiuvjttjscf7nbtvkiaeqzboj3fucjcad.onion`
+*   [Torzon Market](http://torzon5g2amn6bjnhmhskcnttnn5cy5x4epy3red55glanfpce7o34yd.onion) - `http://torzon5g2amn6bjnhmhskcnttnn5cy5x4epy3red55glanfpce7o34yd.onion`
 *   [Vortex - Market](http://vh3cljhzsk46awmrohty2vqgfvalsu7pba46c5xunoew6nijvbzrueqd.onion) - `http://vh3cljhzsk46awmrohty2vqgfvalsu7pba46c5xunoew6nijvbzrueqd.onion`
 *   [We-The North Canada](http://hh2paw7ouhfjozylujs3qp4rql7xc76ce63ffzvtlpicjqgeiqxp4oad.onion) - `http://hh2paw7ouhfjozylujs3qp4rql7xc76ce63ffzvtlpicjqgeiqxp4oad.onion`
 
@@ -133,4 +133,6 @@ Plase contribute and add stars to this repo.
 
 
 
-Update:  Saturday 23 August 2025 link is responsive and live
+
+
+Update:  12 September 2025
